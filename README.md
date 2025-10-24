@@ -2,7 +2,7 @@
 
 Bu proje, Python programlama dili, Tkinter GUI kütüphanesi ve SQLite veritabanı kullanılarak geliştirilmiş bir masaüstü otel rezervasyon yönetim sistemidir.
 
-![Sistem Arayüzü](arayuz_goruntusu.png)
+![Sistem Arayüzü](arayuz-goruntusu.png)
 
 
 ## Temel Özellikler
